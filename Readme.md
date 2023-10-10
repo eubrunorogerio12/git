@@ -1,1 +1,1 @@
-aprendendo a git 
+aprendendo o git 
